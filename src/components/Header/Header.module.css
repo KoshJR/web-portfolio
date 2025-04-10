@@ -1,0 +1,16 @@
+.headerInfo {
+  display: flex;
+  flex-direction: column;
+}
+
+.name {
+  font-size: 56px;
+  line-height: 1em;
+  margin: 0 auto 28px;
+}
+
+.title {
+  font-size:26px;
+  font-weight: 500;
+  margin-bottom: 0 auto 28px;
+}
