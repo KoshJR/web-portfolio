@@ -5,7 +5,7 @@ import BlogList from '../components/BlogList/BlogList'
 const Home = () => {
   return (
       <>
-      <BlogList/>
+      
     </>
   )
 }

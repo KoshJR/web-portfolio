@@ -8,8 +8,6 @@ const BlogList = () => {
           <article key={i} className={styles.card}>
               <img src="" alt="Blog post" className={styles.thumbnail} />
               <h3 className={styles.cardTitle}>Article Name</h3>
-              <p className={styles.cardDesc}>Short intro about the article...</p>
-              <a href="" className={styles.cardLink}>Read more</a>
         </article>
       ))}
     </section>
