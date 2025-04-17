@@ -1,14 +1,13 @@
 import React from "react";
-import Navigation from "../Navigation/Navigation"
-import styles from "./Header.module.css"
-
+import Navigation from "../Navigation/Navigation";
+import styles from "./Header.module.css";
 
 const Header = () => {
   return (
-    <header>
-      <div className={styles.headerInfo}>
+    <header className={styles.header}>
+      <div>
         <p className={styles.name}>VALENTYN KOSHMANYUK</p>
-        <h1 className={styles.title}>Front End Developer</h1>
+        <h1 className={styles.title}>FRONT END DEVELOPER</h1>
       </div>
       <div>
         <Navigation />

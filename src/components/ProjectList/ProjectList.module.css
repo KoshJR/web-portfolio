@@ -1,6 +1,6 @@
 .projectList {
   display: grid;
   grid-template-columns: repeat(3, 250px);
-  grid-template-rows: repeat(2, 200px);
-  gap: 50px;
+  grid-template-rows: repeat(2, 250px);
+  gap: 25px;
 }

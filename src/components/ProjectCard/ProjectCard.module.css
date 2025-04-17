@@ -1,7 +1,5 @@
 .projectCard {
   background-color: bisque;
-  width: 100%;
-  max-width: 250px;
   height: 200px;
   margin: 1rem;
 }

@@ -1,16 +1,17 @@
-.headerInfo {
-  display: flex;
-  flex-direction: column;
+.header {
+  text-align: center;
+  margin-bottom: 3rem;
 }
-
 .name {
-  font-size: 56px;
-  line-height: 1em;
-  margin: 0 auto 28px;
+  font-size: 3rem;
+  font-weight: bold;
+  color: var(--accent);
+  margin-bottom: 1rem;
 }
 
 .title {
-  font-size:26px;
-  font-weight: 500;
-  margin-bottom: 0 auto 28px;
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: var(--text);
+  margin-bottom: 1rem;
 }

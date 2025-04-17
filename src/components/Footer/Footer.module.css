@@ -1,0 +1,12 @@
+.footer {
+  text-align: center;
+  font-size: 0.9rem;
+}
+
+.socialLink {
+  color: var(--muted);
+}
+
+.socialLink:hover {
+  color: var(--accent);
+}
